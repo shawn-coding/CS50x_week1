@@ -1,0 +1,2 @@
+# CS50x_week1
+CS50x First Submission
